@@ -1,0 +1,169 @@
+.jardin1
+{
+width: 18rem;
+margin-left: 104.5px;
+box-shadow: 2px 2px 10px #666;
+}
+
+.jardin2
+{
+width: 18rem;
+margin-left: 550.5px;
+margin-top: -375px;
+box-shadow: 2px 2px 10px #666;
+}
+
+.jardin3
+{
+  width: 18rem;
+  margin-left: 1004.5px;
+  margin-top: -375px;
+  box-shadow: 2px 2px 10px #666;
+}
+.jardin4
+{
+  width: 18rem;
+  margin-left: 104.5px;
+  box-shadow: 2px 2px 10px #666;
+  margin-top: 20px;
+}
+.jardin5
+{
+  width: 18rem;
+  margin-left: 550.5px;
+  margin-top: -365px;
+  box-shadow: 2px 2px 10px #666;
+}
+
+.jardin6
+{
+width: 18rem;
+margin-left: 104.5px;
+box-shadow: 2px 2px 10px #666;
+}
+.jardin7
+{
+  width: 18rem;
+  margin-left: 550.5px;
+  margin-top: -400px;
+  box-shadow: 2px 2px 10px #666;
+}
+.jardin8
+{
+  width: 18rem;
+  margin-left: 1004.5px;
+  margin-top: -400px;
+  box-shadow: 2px 2px 10px #666;
+}
+
+.jardin9
+{
+  width: 18rem;
+  margin-left: 104.5px;
+  box-shadow: 2px 2px 10px #666;
+  margin-top: 30px;
+
+}
+
+.jardin10
+{
+  width: 18rem;
+  margin-top: -400px;
+  margin-left: 550.5px;
+  box-shadow: 2px 2px 10px #666;
+}
+
+.jardin11
+{
+  width: 18rem;
+  margin-left: 1004.5px;
+  margin-top: -400px;
+  box-shadow: 2px 2px 10px #666;
+}
+
+@media (min-width: 100px) and (max-width: 768px)
+{
+  .jardin1
+  {
+  width: 18rem;
+  margin-left: 45px;
+  box-shadow: 2px 2px 10px #666;
+  }
+
+  .jardin2
+  {
+    width: 17rem;
+    margin-left: 45px;
+    margin-top: 30px;
+    box-shadow: 2px 2px 10px #666;
+  }
+
+  .jardin3
+  {
+    width: 17rem;
+    margin-left: 45px;
+    margin-top: 30px;
+    box-shadow: 2px 2px 10px #666;
+  }
+  .jardin4
+  {
+    width: 17rem;
+    margin-left: 45px;
+    margin-top: 30px;
+    box-shadow: 2px 2px 10px #666;
+  }
+  .jardin5
+  {
+    width: 17rem;
+    margin-left: 45px;
+    margin-top: 30px;
+    box-shadow: 2px 2px 10px #666;
+  }
+
+  .jardin6
+  {
+    width: 17rem;
+    margin-left: 45px;
+    margin-top: 30px;
+    box-shadow: 2px 2px 10px #666;
+  }
+  .jardin7
+  {
+    width: 17rem;
+    margin-left: 45px;
+    margin-top: 30px;
+    box-shadow: 2px 2px 10px #666;
+  }
+  .jardin8
+  {
+    width: 17rem;
+    margin-left: 45px;
+    margin-top: 30px;
+    box-shadow: 2px 2px 10px #666;
+  }
+
+  .jardin9
+  {
+    width: 17rem;
+    margin-left: 45px;
+    margin-top: 30px;
+    box-shadow: 2px 2px 10px #666;
+
+  }
+
+  .jardin10
+  {
+    width: 17rem;
+    margin-left: 45px;
+    margin-top: 30px;
+    box-shadow: 2px 2px 10px #666;
+  }
+
+  .jardin11
+  {
+    width: 17rem;
+    margin-left: 45px;
+    margin-top: 30px;
+    box-shadow: 2px 2px 10px #666;
+  }
+}

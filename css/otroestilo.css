@@ -1,0 +1,195 @@
+.rosa
+{
+  width: 23%;
+  margin-left: 100px;
+  height: 400px;
+}
+
+.rosa1
+{
+  width: 23%;
+  margin-left: 550px;
+height: 400px;
+margin-top: -400px;
+
+}
+
+.rosa2
+{
+  width: 300px;
+  margin-left: 970px;
+  height: 400px;
+  margin-top: -400px;
+
+}
+
+.rosa3
+{
+  width: 23%;
+  margin-left: 100px;
+  height: 400px;
+margin-top: 30px;
+}
+
+.rosa4
+{
+  width: 23%;
+  margin-left: 550px;
+height: 400px;
+margin-top: -400px;
+
+}
+
+.rosa5
+{
+  width: 23%;
+  margin-left: 100px;
+  height: 400px;
+
+
+}
+
+.rosa6
+{
+  width: 23%;
+  margin-left: 550px;
+  height: 400px;
+  margin-top: -400px;
+
+}
+
+.rosa7
+{
+  width: 23%;
+  margin-left: 100px;
+  height: 400px;
+
+}
+
+.rosa8
+{
+  width: 23%;
+  margin-left: 550px;
+  height: 400px;
+  margin-top: -400px;
+}
+
+.rosa9
+{
+  width: 23%;
+  margin-left: 970px;
+  height: 400px;
+  margin-top: -400px;
+
+}
+
+.rosa10
+{
+  width:23%;
+  margin-left: 100px;
+height: 390px;
+margin-top: 30px;
+}
+
+@media (min-width: 100px) and (max-width: 768px)
+{
+
+  .rosa
+  {
+    width: 80%;
+    margin-left: 40px;
+    height: 400px;
+  }
+
+  .rosa1
+  {
+    width: 80%;
+    margin-left: 40px;
+  height: 400px;
+  margin-top: 50px;
+
+  }
+
+  .rosa2
+  {
+    width: 80%;
+    margin-left: 40px;
+    height: 400px;
+    margin-top: 50px;
+  }
+
+  .rosa3
+  {
+    width: 80%;
+    margin-left: 40px;
+    height: 400px;
+    margin-top: 50px;
+
+  }
+
+  .rosa4
+  {
+    width: 80%;
+    margin-left: 40px;
+    height: 400px;
+    margin-top: 50px;
+  }
+
+  .rosa5
+  {
+    width: 80%;
+    margin-left: 40px;
+    height: 400px;
+    margin-top: 50px;
+
+
+  }
+
+  .rosa6
+  {
+    width: 80%;
+    margin-left: 40px;
+    height: 400px;
+    margin-top: 50px;
+
+
+  }
+
+  .rosa7
+  {
+    width: 80%;
+    margin-left: 40px;
+    height: 400px;
+    margin-top: 50px;
+
+  }
+
+  .rosa8
+  {
+    width: 80%;
+    margin-left: 40px;
+    height: 400px;
+    margin-top: 50px;
+
+  }
+
+  .rosa9
+  {
+    width: 80%;
+    margin-left: 40px;
+    height: 400px;
+    margin-top: 50px;
+
+
+  }
+
+  .rosa10
+  {
+    width: 80%;
+    margin-left: 40px;
+    height: 400px;
+    margin-top: 50px;
+
+  }
+
+}

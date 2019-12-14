@@ -1,0 +1,95 @@
+
+.cuadrilatero1
+{
+border: solid black;
+width: 2000px;
+height: 300px;
+
+}
+.cuadrilatero2
+{
+border: solid black;
+width: 2000px;
+height: 650px;
+}
+.lg
+{
+width: 45%;
+margin-top: 5%;
+margin-right: 55%;
+}
+.centrar
+{
+  margin-left: 510px;
+}
+
+
+.fuente1
+{
+font-size: 30px;
+}
+
+.fuente2
+{
+font-size: 25px;
+}
+
+
+.fuente3
+{
+  font-size: 23px;
+}
+
+.fnt
+{
+  font-size:25px;
+}
+@media (min-width: 100px) and (max-width: 768px)
+{
+.cuadrilatero1
+{
+border: solid black;
+width: 380px;
+height: 150px;
+}
+.cuadrilatero2
+{
+border: solid black;
+width: 380px;
+height: 200px;
+}
+.lg
+{
+width: 500%;
+margin-top: 175%;
+margin-right: -30px;
+}
+.centrar
+{
+  margin-left: 35px;
+}
+
+.fuente1
+{
+font-size: 15px;
+margin-left:150px;
+}
+
+.fuente2
+{
+font-size: 15px;
+margin-left:150px;
+
+}
+
+
+.fuente3
+{
+  font-size: 15px;
+  margin-left:150px;
+
+}.fnt
+{
+  font-size:15px;
+}
+}

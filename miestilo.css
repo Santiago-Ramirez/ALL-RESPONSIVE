@@ -1,0 +1,178 @@
+.slider
+ {
+   width: 95%;
+   margin: auto;
+   overflow: hidden;
+ }
+.mt
+{
+  margin-top: 3%;
+}
+
+.centro
+{
+  margin-left: 270px;
+}
+.btn-personalized
+{
+  background-color: #3c5337;
+  color: white;
+}
+
+.cd-positive
+{
+  width: 18rem;
+  right: 14%;
+}
+
+.cd
+{
+  width: 18rem;
+  right: -14%;
+}
+
+.othercd
+{
+  width: 18rem;
+  margin-left: 150px;
+
+}
+
+.othercd2
+{
+  width: 18rem;
+  margin-left: 550px;
+  margin-top: -400px;
+
+}
+
+.othercd3
+{
+  width: 18rem;
+  margin-left: 950px;
+  margin-top: -400px;
+}
+.othercd4
+{
+  width: 18rem;
+  margin-left: 150px;
+  margin-top: 30px;
+}
+.othercd5
+{
+  width: 18rem;
+  margin-left: 550px;
+  margin-top: -350px;
+
+}
+.othercd6
+{
+  width: 18rem;
+  margin-left: 950px;
+  margin-top: -350px;
+}
+
+.slider ul
+{
+  display: flex;
+  padding: 0;
+  width: 300%;
+  animation: cambio 20s infinite;
+}
+
+.slider li
+{
+  list-style: none;
+  width: 100%;
+}
+
+.slider img
+{
+
+  width: 100%;
+
+}
+
+
+@keyframes cambio
+{
+   0% {margin-left: 0%;}
+    20% {margin-left: 0%;}
+
+    25% {margin-left: -100%;}
+    45% {margin-left: -100%;}
+
+    55% {margin-left: -200%;}
+    75% {margin-left: -200%;}
+}
+
+.card
+{
+  box-shadow: 2px 2px 10px #666;
+}
+
+
+@media (min-width: 100px) and (max-width: 768px)
+{
+  .acomodo
+  {
+  display: none;
+  }
+  .cd-positive
+  {
+    width: 15rem;
+    margin-top: 450px;
+    margin-left: -230px;
+  }
+
+  .cd
+  {
+    width: 15rem;
+  }
+
+
+  .othercd
+  {
+    width: 20rem;
+    margin-left: 15px;
+
+  }
+
+  .othercd2
+  {
+    width: 20rem;
+    margin-left: 15px;
+    margin-top: 50px;
+
+  }
+
+  .othercd3
+  {
+    width: 20rem;
+    margin-left: 15px;
+    margin-top: 50px;
+  }
+  .othercd4
+  {
+    width: 20rem;
+    margin-left: 15px;
+    margin-top: 50px;
+  }
+  .othercd5
+  {
+    width: 20rem;
+    margin-left: 15px;
+    margin-top: 50px;
+
+  }
+  .othercd6
+  {
+    width: 20rem;
+    margin-left: 15px;
+    margin-top: 50px;
+  }
+  .centro
+  {
+    margin-left: 125px;
+  }
+}

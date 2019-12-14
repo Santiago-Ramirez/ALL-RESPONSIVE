@@ -1,0 +1,75 @@
+.carta
+{
+  width: 18rem;
+   width: 50%;
+}
+
+.carta2
+{
+  position: relative;
+  right: -38%;
+}
+
+.precio
+{
+  position: relative;
+  right: -45%;
+}
+
+.descuento
+{
+  position: relative;
+   right: -40%;
+}
+
+.selct
+{
+  width: 24%;
+   position: relative;
+    right: -40%;
+}
+
+.precio-final
+{
+  position: relative;
+   right: -41%;
+}
+
+@media (min-width: 100px) and (max-width: 768px)
+{
+  .carta
+  {
+    width: 18rem;
+     width: 100%;
+  }
+
+  .carta2
+  {
+    margin-left: 100px;
+    right: 0%;
+  }
+
+  .precio
+  {
+    margin-left: 100px;
+    right: 0%;
+  }
+
+  .descuento
+  {
+    margin-left: 100px;
+     right: 0%;
+  }
+
+  .selct
+  {
+    width: 24%;
+     position: relative;
+      right: -40%;
+  }
+  .precio-final
+  {
+    margin-left: 100px;
+     right: 0%;
+  }
+}

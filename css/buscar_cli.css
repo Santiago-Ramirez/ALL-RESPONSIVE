@@ -1,0 +1,67 @@
+.title
+{
+margin-right: 10px;
+}
+
+.input1
+{
+margin-right: 10px;
+border-radius: 5px;
+border-width: 0px;
+}
+
+.search1
+{
+color:white;
+background-color:#3c5337;
+margin-right: 10px;
+}
+
+.search2
+{
+color:white;
+background-color:#3c5337;
+margin-right: 10px;
+}
+
+
+
+@media (min-width: 100px) and (max-width: 768px)
+{
+
+  .search1
+  {
+    font-size: 15px;
+    margin-top: -5px;
+    width:40%;
+    height: 40px;
+  color:white;
+  background-color:#3c5337;
+  margin-right: -45px;
+  }
+
+  .search2
+  {
+    font-size: 15px;
+    margin-top: 50px;
+    margin-left: -50px;
+    width: 50%;
+  color:white;
+  background-color:#3c5337;
+  margin-right: -10px;
+  }
+  .input1
+  {
+    margin-top: 10px;
+    width: 150px;
+    height: 50px;
+  }
+  .title
+  {
+    display: none;
+  }
+  .table-gayosso th,
+  .table-gayosso td {
+    padding: 0.3rem;
+  }
+}

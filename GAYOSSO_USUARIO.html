@@ -1,0 +1,141 @@
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Gayyosso</title>
+
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/miestilo.css">
+  <link rel="stylesheet" href="miestilo.css">
+
+</head>
+
+<body>
+
+
+  <header class="container-fluid">
+      <div class="row">
+          <div class="col header-nav mb-3">
+              <nav class="navbar navbar-expand-md navbar-dark">
+                  <a class="navbar-brand text-light" href="http://gayosso.uttics.com">
+                      <img src="img/LOGOTRANSPARENTE.png" class="logotamañoptimize">
+                  </a>
+                  <h2 class="centerr text-white">DATOS CLIENTE</h2>
+                  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Menu de Navegacion">
+                      <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <ul class="navbar-nav ml-auto acomodo">
+                    <li class="nav-item">
+                      <div class="dropdown">
+                  <button class="btn btn-outline-gayosso dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Menú Gayosso
+                  </button>
+                  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <a class="dropdown-item" href="#index_cli.html">Buscar Cliente</a>
+                  <a class="dropdown-item" href="#">Cerrar Sesión</a>
+                  </div>
+                  </div>
+                      </li>
+                    </ul>
+              </nav>
+              <div class="collapse navbar-collapse" id="navbar">
+                  <ul class="navbar-nav">
+
+                  </ul>
+                  <ul class="navbar-nav ml-auto">
+                      <li class="nav-item">
+                        <a class="btn btn-outline-secondary text-light nav-link" href="GAYOSSO_login.html">Buscar Cliente</a>
+                        <a class="btn btn-outline-secondary text-light nav-link" href="GAYOSSO_login.html">Cerrar Sesión</a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+      </div>
+  </header>
+
+
+
+
+<div class="container tamaño">
+
+  <form action="RegistroCliente.php" method="post">
+  <div class="form-row">
+    <div class="form-group col-md-12">
+    <label for="inputPassword" style="color: gray">Nombre</label>
+    <input type="text" class="form-control" id="nombre" name="NOMBRE" placeholder="Nombre">
+  </div>
+
+    <div class="form-group col-md-12">
+      <label for="inputEmail4" style="color: gray">Apellido Paterno</label>
+      <input type="text" class="form-control" id="ap" name="AP" placeholder="Apellido Paterno">
+    </div>
+
+     <div class="form-group col-md-12">
+      <label for="inputEmail4" style="color: gray">Apellido Materno</label>
+      <input type="text" class="form-control" id="am" name="AM" placeholder="Apellido Materno">
+    </div>
+
+     <div class="form-group col-md-12">
+      <label for="inputEmail4" style="color: gray">Dirección</label>
+      <input type="text" class="form-control" id="dr" name="DIRECCION" placeholder="Dirección">
+    </div>
+
+     <div class="form-group col-md-12">
+      <label for="inputEmail4" style="color: gray">Número de telefono</label>
+      <input type="text" class="form-control" id="tel" name="TELEFONO" placeholder="Número de telefono">
+    </div>
+    
+    
+  
+ <div class="d-flex justify-content-center">
+  <input type="submit" value="Guardar" class="btn" id="btnguardar" name="btnguardar" style="background-color: #3c5337; color: white; 
+    border: solid white 1px;">
+  </input>
+
+ </div>
+
+</form>
+</div>
+
+</div>
+
+
+<br>
+
+
+<footer class="container-fluid">
+    <div class="row border-top py-1 justify-content-center">
+        <div class="col-12 text-light text-center justify-content-center">
+            <p class="footerUDSR">GAYOSSO® | TODOS LOS DERECHOS RESERVADOS | 2019</p>
+            <p class="footerUDSR">EMPRESA: GAYOSSO</p>
+            <p class="footerUDSR">CONTACTO: 8711785736</p>
+            <p class="footerUDSR">CREADO POR &copy; UJMD </p>
+            <a href="#" class="text-white">Ir a TOP</a>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+<script src="js/jquery-3.4.1.min.js" charset="utf-8"></script>
+
+<script src="js/bootstrap.js" charset="utf-8"></script>
